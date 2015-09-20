@@ -6,4 +6,4 @@ What is the largest prime factor of the number 600851475143 ?
 
 ---
 
-<sup>The above problem is from [Project Euler](https://projecteuler.net/problem=2)</sup>
+<sup>The above problem is from [Project Euler](https://projecteuler.net/problem=3)</sup>
