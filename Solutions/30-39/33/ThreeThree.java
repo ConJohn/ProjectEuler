@@ -1,6 +1,6 @@
 /**
  * Solves Project Euler problem #33
- * https://projecteuler.net/problem=3
+ * https://projecteuler.net/problem=33
  * 
  * @author Jake Conway
  * @version 1.0
