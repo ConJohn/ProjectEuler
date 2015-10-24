@@ -5,7 +5,7 @@
  * @author Jake Conway
  * @version 1.0
  */
-public class FourZero
+public class Forty
 {
     public static void main(String[] args)
     {
