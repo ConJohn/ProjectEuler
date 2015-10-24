@@ -5,7 +5,7 @@
  * @author Jake Conway
  * @version 1.0
  */
-public class ThreeThree
+public class ThirtyThree
 {
     public static void main(String[] args)
     {
