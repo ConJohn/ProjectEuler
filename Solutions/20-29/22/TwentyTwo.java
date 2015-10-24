@@ -16,7 +16,7 @@ import java.util.Collections;
  * @author Jake Conway
  * @version 1.0
  */
-public class TwoTwo
+public class TwentyTwo
 {
     public static void main(String[] args)
     {
