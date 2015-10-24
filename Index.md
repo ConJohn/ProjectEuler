@@ -19,3 +19,13 @@ This is the table of contents for all of the solutions in this repository
 [16](/Solutions/10-19/16/Problem.md)|[Sixteen.java](/Solutions/10-19/16/Sixteen.java)| 
 [17](/Solutions/10-19/17/Problem.md)|[Seventeen.java](/Solutions/10-19/17/Seventeen.java)| 
 [19](/Solutions/10-19/19/Problem.md)|[Nineteen.java](/Solutions/10-19/19/Nineteen.java)| 
+[20](/Solutions/20-29/20/Problem.md)|[Twenty.java](/Solutions/20-29/20/Twenty.java)| 
+[22](/Solutions/20-29/22/Problem.md)|[TwentyTwo.java](/Solutions/20-29/22/TwentyTwo.java)| 
+[25](/Solutions/20-29/25/Problem.md)|[TwentyFive.java](/Solutions/20-29/25/TwentyFive.java)| 
+[29](/Solutions/20-29/29/Problem.md)|[TwentyNine.java](/Solutions/20-29/29/TwentyNine.java)| 
+[30](/Solutions/30-39/30/Problem.md)|[Thirty.java](/Solutions/30-39/30/Thirty.java)| 
+[33](/Solutions/30-39/33/Problem.md)|[ThirtyThree.java](/Solutions/30-39/33/ThirtyThree.java)| 
+[35](/Solutions/30-39/35/Problem.md)|[ThirtyFive.java](/Solutions/30-39/35/ThirtyFive.java)| 
+[36](/Solutions/30-39/36/Problem.md)|[ThirtySix.java](/Solutions/30-39/36/ThirtySix.java)| 
+[40](/Solutions/40-49/30/Problem.md)|[Forty.java](/Solutions/40-49/40/Forty.java)| 
+[48](/Solutions/40-49/30/Problem.md)|[FortyEight.java](/Solutions/40-49/48/FortyEight.java)| 
