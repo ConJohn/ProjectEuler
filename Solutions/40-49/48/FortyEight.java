@@ -6,7 +6,7 @@ import java.math.BigInteger;
  * @author Jake Conway 
  * @version 1.0
  */
-public class FourEight
+public class FortyEight
 {
     public static void main(String[] args)
     {
