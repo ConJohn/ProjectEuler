@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * @author Jake Conway 
  * @version 1.0
  */
-public class ThreeZero
+public class Thirty
 {
     public static void main(String[] args)
     {
